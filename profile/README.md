@@ -1,4 +1,3 @@
-```md
 <div align="center">
 
 # DISTRICT CORE
@@ -144,4 +143,3 @@ Coming Soon
 Made with ❤️ by **District Core**
 
 </div>
-```
