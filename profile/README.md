@@ -1,17 +1,15 @@
 <div align="center">
+<img src="./Logo-White.svg" alt="District Core Banner"/>
+<br>
 
-# DISTRICT CORE
 
 ### Building immersive worlds. Engineering unforgettable experiences.
-
-<img src="./Logo-White.svg" alt="District Core Banner"/>
 
 <br>
 
 ![Game Development](https://img.shields.io/badge/Game_Development-Unreal_Engine_5-black?style=for-the-badge)
 ![Studio](https://img.shields.io/badge/Independent-Studio-3b82f6?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-16a34a?style=for-the-badge)
-![Made With](https://img.shields.io/badge/Made_With-Coffee_%26_Passion-orange?style=for-the-badge)
 
 </div>
 
@@ -66,8 +64,8 @@ Features include:
 | Web | React • Next.js • TailwindCSS |
 | Backend | Node.js |
 | Version Control | Git + GitHub |
-| Audio | FMOD |
-| 3D | Blender |
+| Audio | WWISE |
+| 3D | Houdini |
 | Design | Figma |
 | CI/CD | GitHub Actions |
 
@@ -78,61 +76,6 @@ Features include:
 > Great games are built where technology meets art.
 
 We believe every detail matters—from gameplay feel to environmental storytelling.
-
----
-
-# Organization Structure
-
-```
-
-District Core
-│
-├── Games
-│   └── Tides of Aethra
-│
-├── Engine
-│   ├── Plugins
-│   ├── Systems
-│   └── Tools
-│
-├── Web
-│   ├── Website
-│   └── Services
-│
-├── Design
-│
-├── Audio
-│
-└── Documentation
-
-```
-
----
-
-# Repositories
-
-| Repository | Description |
-|------------|-------------|
-| Website | Official website |
-| Tides of Aethra | Main game project |
-| Docs | Internal documentation |
-| Tools | Development utilities |
-
----
-
-# Contributing
-
-This organization primarily hosts internal development repositories.
-
-Selected projects may become open-source in the future.
-
----
-
-# Contact
-
-Website
-
-Coming Soon
 
 ---
 
