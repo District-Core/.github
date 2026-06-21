@@ -4,7 +4,7 @@
 
 ### Building immersive worlds. Engineering unforgettable experiences.
 
-<img src="https://placehold.co/1200x420/111111/FFFFFF?text=DISTRICT+CORE" alt="District Core Banner"/>
+<img src="./Logo-White.svg" alt="District Core Banner"/>
 
 <br>
 
